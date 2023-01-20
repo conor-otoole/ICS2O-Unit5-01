@@ -1,14 +1,1 @@
-#############################
-#############################
-## Prettier Linter Rules   ##
-##    Mr Coxall            ##
-#############################
-#############################
 
-{
-  "trailingComma": "es5",
-  "semi": false,
-  "singleQuote": false,
-  "tabWidth": 2,
-  "useTabs": false
-}
