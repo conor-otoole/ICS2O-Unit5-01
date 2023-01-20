@@ -3,7 +3,7 @@
   "short_name": "Conor's App",
   "description": "Github Page for Conor's App",
   "scope": "/ICS2O-Unit5-01/",
-  "start_url": "/ICS2O-PWA-Test/",
+  "start_url": "/ICS2O-Unit5-01/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
